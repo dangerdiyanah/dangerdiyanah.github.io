@@ -1,0 +1,30 @@
+.menuitem {
+    display: inline;
+    background-color: lightgray;
+    font-size: 5em;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom: 0px solid;
+    border-bottom-color: grey;
+    transition-duration: 30ms;
+    transition-property: border-bottom;
+    transition-timing-function: linear;
+}
+
+.menuitem:hover {
+    border-bottom-color: blue;
+    border-bottom-width: 5px;
+
+}
+
+.center-it {
+    text-align: center;
+}
+
+
+.margin-top-20 {
+    margin-top: 20px;
+}
