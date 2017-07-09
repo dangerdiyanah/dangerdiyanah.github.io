@@ -17,13 +17,11 @@
 .menuitem:hover {
     border-bottom-color: blue;
     border-bottom-width: 5px;
-
 }
 
 .center-it {
     text-align: center;
 }
-
 
 .margin-top-20 {
     margin-top: 20px;
